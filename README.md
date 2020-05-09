@@ -1,3 +1,5 @@
+# Projected moved to https://github.com/streamparty/chrome-extension-stream-party
+
 # Stream Party
 
 Watch any video together with friends.
